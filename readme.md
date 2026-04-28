@@ -105,10 +105,10 @@ The frontend app will run on `http://localhost:3000` by default.
 
 ## Authors
 
-- Romit Ghosh
-- Jhanvi Aggarwal
-- Rohit Mahajan
-- Pulkit Verma
+- Rishabh Ahuja
+- Sarthak Bansal
+- Rajat Singh
+- Prashant Sheoran
 
 ---
 
