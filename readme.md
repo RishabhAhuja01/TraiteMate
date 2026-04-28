@@ -105,10 +105,18 @@ The frontend app will run on `http://localhost:3000` by default.
 
 ## Authors
 
-- Rishabh Ahuja
-- Sarthak Bansal
-- Rajat Singh
-- Prashant Sheoran
+- Rishabh Ahuja(2210992153)
+- Sarthak Bansal(2210992261)
+- Rajat Singh(2210992132)
+- Prashant Sheoran(2210992070)
+
+## Project Type
+
+- Copyright
+
+## Submission Status
+- pending
+  
 
 ---
 
